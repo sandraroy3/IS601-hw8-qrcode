@@ -19,7 +19,7 @@ PUT YOUR QR CODE IMAGE
 2.  Add an image of viewing the log of successfully creating the QR code below.
  PUT YOUR LOG IMAGE HERE
 
-![DOCKER LOGS IMG](logs.txt)
+![DOCKER LOGS IMG](logs.png)
 
 ## Lesson Video
 
