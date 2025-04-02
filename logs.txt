@@ -1,0 +1,2 @@
+
+2025-04-02 04:06:55,628 - INFO - QR code successfully saved to /app/qr_codes/QRCode_20250402040655.png
