@@ -14,12 +14,12 @@ the target website. You must make your program generate a QR code that takes som
 
 PUT YOUR QR CODE IMAGE
 
-![QR_CODE IMG](IS601-hw8-qrcode/images/QRCode_20250402041030.png)
+![QR_CODE IMG](images/QRCode_20250402041030.png)
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
  PUT YOUR LOG IMAGE HERE
 
-![DOCKER LOGS IMG](IS601-hw8-qrcode/logs.txt)
+![DOCKER LOGS IMG](logs.txt)
 
 ## Lesson Video
 
